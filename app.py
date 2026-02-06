@@ -61,7 +61,7 @@ with col1:
     st.title("Connectivity Processing Tool")
 
 with col2:
-    st.image("molbio.png", width=180)   # ⬅️ slightly larger logo
+    st.image("Molbio.png", width=180)   # ⬅️ slightly larger logo
 
 # Developer credit (bigger & visible)
 st.markdown(
